@@ -1,5 +1,8 @@
 # Agentic AI Project
 
+![AI Agent](AI_agent.webp)
+
+
 ## 📚 **What are Agents?**
 Agents are AI systems designed to autonomously make decisions, perform tasks, and interact with tools and databases. Unlike traditional workflows, which follow predefined sequences, agents dynamically adapt their behavior based on the task requirements. They are particularly useful in complex and flexible environments where decision-making cannot be entirely scripted.
 
