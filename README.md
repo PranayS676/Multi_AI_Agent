@@ -20,7 +20,7 @@ An **Augmented LLM (Large Language Model)** enhances the capabilities of a stand
 
 This augmentation empowers agents to operate with tailored capabilities and deliver high-performance results across diverse tasks.
 
-![Augmented LLM Diagram](../mnt/data/d3083d3f40bb2b6f477901cc9a240738d3dd1371-2401x1000.webp)
+![Augmented LLM Diagram](augmented%20LLM.webp)
 
 ## 📝 **About This Project**
 This project demonstrates how Agentic AI can be applied in real-world scenarios.
